@@ -1,0 +1,2 @@
+# Lista de Convidados
+Um projeto do início dos meus estudos. Usuário possui um input para adicionar candidatos a sua lista de convidados. Assim que adiciona isso é gravado no banco de daods do navegador. Ele pode excluir esse convidado também.
